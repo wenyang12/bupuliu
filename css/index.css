@@ -1,0 +1,21 @@
+.pubuliu-box {
+  position: relative;
+  margin: 0 auto;
+}
+.pubuliu-box > .img-box {
+  float: left;
+  padding: 5px;
+}
+.pubuliu-box > .img-box > .img-inner {
+  border: 1px solid #cccccc;
+  padding: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 0 5px #ccc;
+  -moz-box-shadow: 0 0 5px #ccc;
+  box-shadow: 0 0 5px #ccc;
+}
+.pubuliu-box > .img-box > .img-inner > img {
+  display: block;
+  width: 150px;
+  height: auto;
+}
