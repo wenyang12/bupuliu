@@ -5,7 +5,7 @@
 
 **安装瀑布流模块**
 
->spm install moving-water
+>spm install moving-water --save
 
 **js引入**
 
